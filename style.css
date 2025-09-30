@@ -88,10 +88,11 @@ font-size: 20px;
         .hero-carousel .carousel-item {
         height: 80vh;
         min-height: 500px;
-        background-position: left;
+        background-position: right;
         background-size: cover;
         position: relative;
         color: #fff;
         }
 
   }
+
