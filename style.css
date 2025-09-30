@@ -79,7 +79,7 @@ font-size: 12px;
 }
 .navbar-brand img {
     object-fit: cover;
-    width: 76px;
+    width: 100px;
     object-fit: fill;
 }
 h5, h6{
@@ -95,4 +95,5 @@ font-size: 20px;
         }
 
   }
+
 
