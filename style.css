@@ -1,0 +1,82 @@
+      body {font-family: "Poppins", sans-serif !important;}
+      .hero-carousel .carousel-item {
+        height: 80vh;
+        min-height: 500px;
+        background-position: center;
+        background-size: cover;
+        position: relative;
+        color: #fff;
+      }
+      .navbar-brand img{
+        object-fit: cover;
+      }
+      .hero-overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        
+      }
+      .hero-content {
+        position: absolute;
+        top: 50%;
+        right: 5%;
+        transform: translateY(-50%);
+        text-align: right;
+        max-width:100%;
+      }
+      .hero-content h1 {font-weight: 700; text-transform: uppercase;}
+      .hero-content p {font-size: 1.25rem;}
+      .hero-content .btn {margin: 0.25rem;}
+      .hero-buttons {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  background-color: white;
+    padding: 0 20px;
+
+
+}
+.stylish-text{
+     font-family: "Sirivennela", sans-serif;
+}
+.hero-link {
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #000;              /* black text */
+  text-decoration: none;    /* remove underline */
+  font-size: 1.1rem;
+}
+
+.hero-link:hover {
+  color: #007bff;           /* hover effect (blue like Bootstrap primary) */
+}
+
+.divider {
+  font-weight: bold;
+  color: #000;
+}
+
+.area-sec .img-fixed {
+    height: 400px;           /* Adjust as needed */
+    object-fit: cover;       /* Crop image nicely */
+    width: 100%;
+  }
+
+  @media(min-width:300px) and (max-width: 767px){
+    .area-sec .img-fixed {
+    height: 200px;           /* Adjust as needed */
+    object-fit: cover;       /* Crop image nicely */
+    width: 100%;
+  }
+.hero-link{
+font-size: 12px;
+}
+.navbar-brand img {
+    object-fit: cover;
+    width: 76px;
+    object-fit: fill;
+}
+  }
