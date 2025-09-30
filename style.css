@@ -41,6 +41,7 @@
 }
 .stylish-text{
      font-family: "Sirivennela", sans-serif;
+     font-size: 38px;
 }
 .hero-link {
   font-weight: 700;
@@ -58,7 +59,9 @@
   font-weight: bold;
   color: #000;
 }
-
+.process-section{
+    background: #faf7f7;
+}
 .area-sec .img-fixed {
     height: 400px;           /* Adjust as needed */
     object-fit: cover;       /* Crop image nicely */
@@ -78,5 +81,8 @@ font-size: 12px;
     object-fit: cover;
     width: 76px;
     object-fit: fill;
+}
+h5, h6{
+font-size: 20px;
 }
   }
