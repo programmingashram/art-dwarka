@@ -82,9 +82,9 @@ font-size: 12px;
     width: 100px;
     object-fit: fill;
 }
-h5, h6{
-font-size: 20px;
-}
+  h5, h6{
+  font-size: 20px;
+  }
         .hero-carousel .carousel-item {
         height: 80vh;
         min-height: 500px;
