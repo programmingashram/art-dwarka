@@ -163,7 +163,9 @@ font-size: 12px;
   font-size: 0.9rem;
   transition: background 0.3s;
 }
-
+.bg-brown{
+  background-color: #b95a2e;
+}
 .category-btn:hover {
   background: #b95a2e;
 }
