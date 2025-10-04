@@ -166,6 +166,10 @@ font-size: 12px;
 .bg-brown{
   background-color: #b95a2e;
 }
+
+.text-brown{
+  color: #b95a2e;;
+}
 .category-btn:hover {
   background: #b95a2e;
 }
