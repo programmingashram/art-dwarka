@@ -77,6 +77,9 @@
 .hero-link{
 font-size: 12px;
 }
+.area-sec h5,h6,h4 {
+    font-size: 14px !important;
+  }
 .navbar-brand img {
     object-fit: cover;
     width: 100px;
