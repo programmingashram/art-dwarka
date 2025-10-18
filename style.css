@@ -221,7 +221,7 @@ font-size: 12px;
   font-weight: 600;
   font-size: 14px;
   color: #fff;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: black;
   padding: 6px 10px;
   border-radius: 10px;
   opacity: 0;
@@ -244,3 +244,9 @@ font-size: 12px;
     width: 280px;
   }
 }
+
+  .project-img {
+    height: 350px; /* Fixed height for all images */
+    object-fit: cover; /* Crops and maintains aspect ratio */
+    width: 100%;
+  }
