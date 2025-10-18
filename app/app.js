@@ -41,7 +41,7 @@ const products = {
     {
       name: "Classic Main Gate",
       seo: "classic-main-gate",
-      image: "https://5.imimg.com/data5/SELLER/Default/2022/1/AY/HU/EG/146470281/wrought-iron-main-gate.jpg",
+      image: "https://i.pinimg.com/736x/b7/71/fd/b771fdb4b6cd75cf59d0042121abe56c.jpg",
       pageLink: "#",
       enquiryLink: "#"
     }
@@ -57,7 +57,7 @@ const products = {
     {
       name: "Window Grill Design",
       seo: "window-grill-design",
-      image: "https://5.imimg.com/data5/SELLER/Default/2022/6/UC/SS/IE/141091214/decorative-window-grill-design.jpg",
+      image: "https://i.pinimg.com/736x/7c/06/d5/7c06d5796d60b89f16a22fe11763e0f2.jpg",
       pageLink: "#",
       enquiryLink: "#"
     }
