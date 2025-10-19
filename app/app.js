@@ -1,35 +1,42 @@
 
 const products = {
   lampPoles: [
-    {
-      name: "Elegant Lamp Pole",
-      seo: "premium-modern-lamp-pole",
-      image: "https://polelightstore.com/wp-content/uploads/2022/02/pole-light-1.jpg",
-      pageLink: "#",
-      enquiryLink: "#"
-    },
-    {
-      name: "Steel Street Lamp",
-      seo: "steel-street-lamp",
-      image: "https://t4.ftcdn.net/jpg/03/28/13/51/360_F_328135141_KiYUAnogffC5rIgQOJjWFF7cArswVA4f.jpg",
-      pageLink: "#",
-      enquiryLink: "#"
-    },
-    {
-      name: "Steel Street Lamp",
-      seo: "steel-street-lamp",
-      image: "https://t4.ftcdn.net/jpg/03/28/13/51/360_F_328135141_KiYUAnogffC5rIgQOJjWFF7cArswVA4f.jpg",
-      pageLink: "#",
-      enquiryLink: "#"
-    },
-    {
-      name: "Steel Street Lamp",
-      seo: "steel-street-lamp",
-      image: "https://t4.ftcdn.net/jpg/03/28/13/51/360_F_328135141_KiYUAnogffC5rIgQOJjWFF7cArswVA4f.jpg",
-      pageLink: "#",
-      enquiryLink: "#"
-    }
-  ],
+  {
+    name: "Elegant Lamp Pole",
+    seo: "elegant-lamp-pole",
+    image: "https://polelightstore.com/wp-content/uploads/2022/02/pole-light-1.jpg",
+    pageLink: "#",
+    enquiryLink: "#"
+  },
+  {
+    name: "Modern Steel Lamp",
+    seo: "modern-steel-lamp",
+    image: "https://t4.ftcdn.net/jpg/03/28/13/51/360_F_328135141_KiYUAnogffC5rIgQOJjWFF7cArswVA4f.jpg",
+    pageLink: "#",
+    enquiryLink: "#"
+  },
+  {
+    name: "Classic Street Lamp",
+    seo: "classic-street-lamp",
+    image: "https://images.stockcake.com/public/f/2/5/f258df16-fd69-49cf-8b3f-5095f9b14bd6_large/historic-street-lights-stockcake.jpg",
+    pageLink: "#",
+    enquiryLink: "#"
+  },
+  {
+    name: "Solar Garden Lamp",
+    seo: "solar-garden-lamp",
+    image: "https://images-cdn.ubuy.co.in/63b4f8397d70e673e3736f12-64-inch-outdoor-solar-lamp-post-light.jpg",
+    pageLink: "#",
+    enquiryLink: "#"
+  },
+  {
+    name: "Vintage Lantern Pole",
+    seo: "vintage-lantern-pole",
+    image: "https://m.media-amazon.com/images/I/81i8mvN+kNL.jpg",
+    pageLink: "#",
+    enquiryLink: "#"
+  }
+],
   ironGates: [
     {
       name: "Luxury Wrought Iron Gate",
